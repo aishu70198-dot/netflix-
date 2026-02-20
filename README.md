@@ -27,7 +27,7 @@ Production-ready Netflix-inspired frontend built with:
    The example file already contains a demo OMDB API key:
 
    ```bash
-   VITE_OMDB_API_KEY=ab31ab65
+   VITE_OMDB_API_KEY=your_api_key_here
    ```
 
 3. **Run the dev server**
